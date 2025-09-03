@@ -1,0 +1,7 @@
+# Ignore everything by default
+*
+
+# But DO NOT ignore these specific files
+!vision360.py
+!logo.png
+!.gitignore
