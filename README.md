@@ -4,12 +4,6 @@ A simple desktop application for Linux designed to streamline your Insta360 work
 
 ![Toolbox Logo](logo.png)
 
-<img width="899" height="834" alt="Screenshot_20250905_183935" src="https://github.com/user-attachments/assets/67554f28-1d1a-463d-9d4f-a215b3baaf3c" />
-
-<img width="900" height="836" alt="Screenshot_20250905_183956" src="https://github.com/user-attachments/assets/6dbb273c-e551-4c0d-a775-2fa60a97efaa" />
-
-<img width="902" height="839" alt="Screenshot_20250905_184008" src="https://github.com/user-attachments/assets/41a8a7f0-8610-4bd4-8ff7-4e9ab8d9c204" />
-
 
 
 ## Core Features
@@ -66,6 +60,13 @@ If you want to run or modify the source code, follow these steps:
     python vision360.py
     ```
 ---
+
+<img width="899" height="834" alt="Screenshot_20250905_183935" src="https://github.com/user-attachments/assets/67554f28-1d1a-463d-9d4f-a215b3baaf3c" />
+
+<img width="900" height="836" alt="Screenshot_20250905_183956" src="https://github.com/user-attachments/assets/6dbb273c-e551-4c0d-a775-2fa60a97efaa" />
+
+<img width="902" height="839" alt="Screenshot_20250905_184008" src="https://github.com/user-attachments/assets/41a8a7f0-8610-4bd4-8ff7-4e9ab8d9c204" />
+
 
 ## Contact
 
